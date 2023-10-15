@@ -1,0 +1,4 @@
+string name
+string msg
+int64 length
+int64 checksum
